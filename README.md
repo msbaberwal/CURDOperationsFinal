@@ -1,0 +1,2 @@
+# CURDOperationsFinal
+Project Description: Design and implement a production ready application for maintaining contact information. Please choose the frameworks, packages and/or technologies that best suit the requirements. Expected functionality: - add a contact - list contacts - edit contact - delete contact Required Contact model: - First Name - Last Name - Email - Phone Number - Status (Possible values: Active/Inactive)
